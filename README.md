@@ -1,6 +1,5 @@
 # Stock Portfolio Optimization
 
-![Project Banner](https://your-image-link.com/banner.jpg)
 
 ## Overview
 
